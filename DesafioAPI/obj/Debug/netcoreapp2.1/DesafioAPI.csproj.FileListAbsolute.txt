@@ -1,0 +1,28 @@
+C:\Users\jonic\OneDrive\Documentos\Visual Studio 2017\Projects\DesafioAPI\DesafioAPI\bin\Debug\netcoreapp2.1\DesafioAPI.deps.json
+C:\Users\jonic\OneDrive\Documentos\Visual Studio 2017\Projects\DesafioAPI\DesafioAPI\bin\Debug\netcoreapp2.1\DesafioAPI.runtimeconfig.json
+C:\Users\jonic\OneDrive\Documentos\Visual Studio 2017\Projects\DesafioAPI\DesafioAPI\bin\Debug\netcoreapp2.1\DesafioAPI.runtimeconfig.dev.json
+C:\Users\jonic\OneDrive\Documentos\Visual Studio 2017\Projects\DesafioAPI\DesafioAPI\bin\Debug\netcoreapp2.1\DesafioAPI.dll
+C:\Users\jonic\OneDrive\Documentos\Visual Studio 2017\Projects\DesafioAPI\DesafioAPI\bin\Debug\netcoreapp2.1\DesafioAPI.pdb
+C:\Users\jonic\OneDrive\Documentos\Visual Studio 2017\Projects\DesafioAPI\DesafioAPI\obj\Debug\netcoreapp2.1\DesafioAPI.csprojAssemblyReference.cache
+C:\Users\jonic\OneDrive\Documentos\Visual Studio 2017\Projects\DesafioAPI\DesafioAPI\obj\Debug\netcoreapp2.1\DesafioAPI.csproj.CoreCompileInputs.cache
+C:\Users\jonic\OneDrive\Documentos\Visual Studio 2017\Projects\DesafioAPI\DesafioAPI\obj\Debug\netcoreapp2.1\DesafioAPI.RazorAssemblyInfo.cache
+C:\Users\jonic\OneDrive\Documentos\Visual Studio 2017\Projects\DesafioAPI\DesafioAPI\obj\Debug\netcoreapp2.1\DesafioAPI.RazorAssemblyInfo.cs
+C:\Users\jonic\OneDrive\Documentos\Visual Studio 2017\Projects\DesafioAPI\DesafioAPI\obj\Debug\netcoreapp2.1\DesafioAPI.AssemblyInfoInputs.cache
+C:\Users\jonic\OneDrive\Documentos\Visual Studio 2017\Projects\DesafioAPI\DesafioAPI\obj\Debug\netcoreapp2.1\DesafioAPI.AssemblyInfo.cs
+C:\Users\jonic\OneDrive\Documentos\Visual Studio 2017\Projects\DesafioAPI\DesafioAPI\obj\Debug\netcoreapp2.1\DesafioAPI.RazorTargetAssemblyInfo.cache
+C:\Users\jonic\OneDrive\Documentos\Visual Studio 2017\Projects\DesafioAPI\DesafioAPI\obj\Debug\netcoreapp2.1\DesafioAPI.dll
+C:\Users\jonic\OneDrive\Documentos\Visual Studio 2017\Projects\DesafioAPI\DesafioAPI\obj\Debug\netcoreapp2.1\DesafioAPI.pdb
+C:\Users\jonic\OneDrive\Documentos\GitHub\DesafioAPI\DesafioAPI\bin\Debug\netcoreapp2.1\DesafioAPI.deps.json
+C:\Users\jonic\OneDrive\Documentos\GitHub\DesafioAPI\DesafioAPI\bin\Debug\netcoreapp2.1\DesafioAPI.runtimeconfig.json
+C:\Users\jonic\OneDrive\Documentos\GitHub\DesafioAPI\DesafioAPI\bin\Debug\netcoreapp2.1\DesafioAPI.runtimeconfig.dev.json
+C:\Users\jonic\OneDrive\Documentos\GitHub\DesafioAPI\DesafioAPI\bin\Debug\netcoreapp2.1\DesafioAPI.dll
+C:\Users\jonic\OneDrive\Documentos\GitHub\DesafioAPI\DesafioAPI\bin\Debug\netcoreapp2.1\DesafioAPI.pdb
+C:\Users\jonic\OneDrive\Documentos\GitHub\DesafioAPI\DesafioAPI\obj\Debug\netcoreapp2.1\DesafioAPI.csprojAssemblyReference.cache
+C:\Users\jonic\OneDrive\Documentos\GitHub\DesafioAPI\DesafioAPI\obj\Debug\netcoreapp2.1\DesafioAPI.csproj.CoreCompileInputs.cache
+C:\Users\jonic\OneDrive\Documentos\GitHub\DesafioAPI\DesafioAPI\obj\Debug\netcoreapp2.1\DesafioAPI.RazorAssemblyInfo.cache
+C:\Users\jonic\OneDrive\Documentos\GitHub\DesafioAPI\DesafioAPI\obj\Debug\netcoreapp2.1\DesafioAPI.RazorAssemblyInfo.cs
+C:\Users\jonic\OneDrive\Documentos\GitHub\DesafioAPI\DesafioAPI\obj\Debug\netcoreapp2.1\DesafioAPI.AssemblyInfoInputs.cache
+C:\Users\jonic\OneDrive\Documentos\GitHub\DesafioAPI\DesafioAPI\obj\Debug\netcoreapp2.1\DesafioAPI.AssemblyInfo.cs
+C:\Users\jonic\OneDrive\Documentos\GitHub\DesafioAPI\DesafioAPI\obj\Debug\netcoreapp2.1\DesafioAPI.RazorTargetAssemblyInfo.cache
+C:\Users\jonic\OneDrive\Documentos\GitHub\DesafioAPI\DesafioAPI\obj\Debug\netcoreapp2.1\DesafioAPI.dll
+C:\Users\jonic\OneDrive\Documentos\GitHub\DesafioAPI\DesafioAPI\obj\Debug\netcoreapp2.1\DesafioAPI.pdb
