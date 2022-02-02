@@ -21,18 +21,18 @@ namespace DesafioAPI.Controllers
             _context = context;
         }
 
-        // GET api/ContatosFavoritos
+        //// GET api/ContatosFavoritos
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
             return new string[] { "value1", "value2" };
         }
-        //// GET api/ContatosFavoritos
-        //[HttpGet]
-        //public IEnumerable<ContatosFavoritos> GetFavoritos()
-        //{
-        //    return _context.ContatosFavoritos;
-        //}
+        // GET api/ContatosFavoritos
+        [HttpGet]
+        public IEnumerable<ContatosFavoritos> GetFavoritos()
+        {
+            return _context.ContatosFavoritos;
+        }
 
         // GET: api/ContatosFavoritos/5
         [HttpGet("{id}")]
