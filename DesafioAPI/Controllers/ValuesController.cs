@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace DesafioAPI.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/values")]
     [ApiController]
     public class ValuesController : ControllerBase
     {

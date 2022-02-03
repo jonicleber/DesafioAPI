@@ -10,7 +10,7 @@ using DesafioAPI;
 
 namespace DesafioAPI.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/contatosfavoritos")]
     [ApiController]
     public class ContatosFavoritosController : ControllerBase
     {
@@ -27,12 +27,12 @@ namespace DesafioAPI.Controllers
         {
             return new string[] { "value1", "value2" };
         }
-        // GET api/ContatosFavoritos
-        [HttpGet]
-        public IEnumerable<ContatosFavoritos> GetFavoritos()
-        {
-            return _context.ContatosFavoritos;
-        }
+        //// GET api/ContatosFavoritos
+        //[HttpGet]
+        //public IEnumerable<ContatosFavoritos> GetFavoritos()
+        //{
+        //    return _context.ContatosFavoritos;
+        //}
 
         // GET: api/ContatosFavoritos/5
         [HttpGet("{id}")]
